@@ -1,0 +1,59 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-color-dark-blue{
+    background-color: #062e51;
+}
+.bg-color-light-blue{
+    background-color: #336ea2;
+}
+ 
+.heading-small{
+    font-size: 1.25rem;
+}
+
+heading-medium{
+     font-size: 1.50rem;
+}
+
+heading-big{
+     font-size: 1.75rem;
+}
+
+.color-white{
+     color: white;
+}
+
+.btn-type{
+    display: flex;
+    padding: 0.75rem;
+    background-color: #336ea2;
+    color: white;
+    text-decoration: none;    
+    letter-spacing: 1px; 
+    border: 1px solid #336ea2;
+    border-radius: 10px;
+    
+}
+
+.btn-hover:hover{
+    background-color: white;
+    color: #336ea2;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.opacity-text{
+    opacity: 0.6;
+}
+
+/** footer**/
+
+
+
+
+
+
